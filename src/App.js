@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          CodeLab's Class
+          CodeLab's Class 05
         </a>
       </header>
     </div>
